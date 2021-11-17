@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "eider_grey_knit.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 3
+  }
+}

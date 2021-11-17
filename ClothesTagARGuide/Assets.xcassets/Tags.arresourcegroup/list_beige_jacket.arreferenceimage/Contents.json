@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "list_beige_jacket.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "kangol_black_shirt.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 3
+  }
+}

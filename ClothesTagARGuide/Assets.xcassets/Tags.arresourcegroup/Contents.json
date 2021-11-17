@@ -1,0 +1,17 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "eider_grey_knit.arreferenceimage"
+    },
+    {
+      "filename" : "kangol_black_shirt.arreferenceimage"
+    },
+    {
+      "filename" : "list_beige_jacket.arreferenceimage"
+    }
+  ]
+}
